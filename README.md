@@ -1,2 +1,5 @@
-# cifar10-image-classifier
-AI-powered CIFAR-10 Image Classification Web Application
+# CIFAR-10 Image Classification System
+
+This project classifies images into CIFAR-10 categories using a CNN model.
+
+Author: Mary Ojeyinka Inioluwa
